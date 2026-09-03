@@ -1,0 +1,12 @@
+# Node modules
+node_modules/*
+
+# Site generation
+public/*
+resources/*
+
+# IDE
+.vscode/
+
+# MacOS
+.DS_Store
