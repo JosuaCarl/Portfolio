@@ -60,7 +60,7 @@ degrees:
   institution:
     name: Gymnasium Pegnitz
     url: "https://www.gymnasium-pegnitz.de"
-    logo: /images/education/science_college.png
+    logo: /images/education/gym-peg.png
   grade:
     scale: GPA
     achieved: 2.3

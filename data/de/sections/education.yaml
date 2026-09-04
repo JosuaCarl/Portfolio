@@ -55,7 +55,7 @@ degrees:
   institution:
     name: Gymnasium Pegnitz
     url: "https://www.gymnasium-pegnitz.de"
-    logo: /images/education/science_college.png
+    logo: /images/education/gym-peg.png
   customSections:
     - name: Note
       content: 2.3

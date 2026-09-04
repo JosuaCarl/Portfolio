@@ -45,7 +45,7 @@ experiences:
     name: Plant Ecology working group
     url: "https://www.example.com"
     location: Intern Land
-    logo: '#'
+    logo: '/images/education/uni-tuebingen.png'
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/experiences/company3.jpg
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.

@@ -21,62 +21,23 @@ buttons:
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: "Transmembrane effector substrates of type IV secretion systems: mechanisms of secretion and insertion into host cell membranes"
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: microLife
+    date: February 2026
+    url: https://academic.oup.com/microlife
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: "Sarah-Maria Trenz"
+    url: "https://orcid.org/0000-0003-0638-5741"
+  - name: "Ann-Kathrin Kuwertz"
+    url: "https://orcid.org/0009-0007-8045-975X"
+  - name: "Josua Carl"
+    url: "https://orcid.org/0009-0001-7336-9808"
+  - name: "Samuel Wagner"
+    url: "https://orcid.org/0000-0003-1808-3556"
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
-  categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+    summary: Intracellular Gram-negative pathogens employ either type IVA or type IVB secretion systems (T4SSs) to translocate effector proteins into host cells, where they modulate cellular processes to facilitate infection and promote intracellular survival. Roughly one-third of these effectors harbor hydrophobic transmembrane domains and are thus destined for integration into host cell membranes during infection. Many of these transmembrane domain-containing effectors (TMEs) localize to the membrane of the pathogen-containing vacuole, thereby contributing to its formation and remodeling. Despite the biological relevance of TMEs, the detailed molecular mechanisms governing their translocation via T4SSs and subsequent membrane integration in the host cell remain insufficiently understood. In this review, the biophysical characteristics of T4SS-secreted TMEs are systematically examined, including predictions of membrane topology and hydrophobicity. These analyses are then contextualized through comparison with recent structural analysis of both T4ASS and T4BSS machineries, as well as with mechanistic principles of eukaryotic membrane protein biogenesis. This integrative approach enables the conceptual reconstruction of the potential pathways by which TMEs are translocated through the T4SS and subsequently targeted and inserted into host membranes, offering new mechanistic insights into the poorly understood handling of bacterial TMEs from both the pathogen and host perspectives.
+    url: https://doi.org/10.1093/femsml/uqag007
+  categories: ["Molecular Biology", "Microbiology"]
+  tags: ["membrane effector proteins", "topology", "hydrophobicity", "type IV secretion systems A and B", "protein secretion", "pathogen-containing vacuole", "eukaryotic membrane protein biogenesis"]
 
-- title: An Sample Paper on Image Processing
-  publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
-
-- title: An Example Paper on Security
-  publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-    url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
