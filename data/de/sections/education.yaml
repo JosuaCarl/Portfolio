@@ -10,49 +10,44 @@ section:
   # hideTitle: true
 
 degrees:
-- name: M.Sc. Bioinformatics
+- name: M.Sc. Bioinformatik
   icon: fa-graduation-cap
   timeframe: 2022-2024
   institution:
-    name: University of Tübingen
+    name: Universität Tübingen
     url: "https://uni-tuebingen.de"
     logo: /images/education/uni-tuebingen.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/education/tech_college.png
-  grade: #(optional)
-    scale: GPA
-    achieved: 1.7
-    outOf: 6
   customSections: #(optional)
-    - name: Master’s thesis
+    - name: Note
+      content: 1.7
+    - name: Masterarbeit
       content: Inference of microbiome composition from flow-injection mass spectrometry data with machine learning
 
-- name: B.Sc. Bioinformatics
+- name: B.Sc. Bioinformatik
   icon: fa-graduation-cap
   timeframe: 2018-2022
   institution:
-    name: University of Tübingen
+    name: Universität Tübingen
     url: "https://uni-tuebingen.de"
     logo: /images/education/uni-tuebingen.png
-  grade: #(optional)
-    scale: GPA
-    achieved: 2.0
-    outOf: 6
   customSections: #(optional)
-    - name: Bachelor’s thesis
+    - name: Note
+      content: 2.0
+    - name: Bachelorarbeit
       content: Investigation of Finegoldia magna ATCC 29328 in the nasal environment
 
-- name: Certified physical therapist
+- name: Staatlich geprüfter Physiotherapeut
   icon: fa-staff-snake
   timeframe: 2014-2017
   institution:
-    name: State vocational school for physical therapy Erlangen
+    name: Berufsfachschule für Physiotherapie Erlangen
     url: "https://www.physiotherapie.bszg-erlangen.de"
     logo: /images/education/uk-erlangen.png
-  grade:
-    scale: GPA
-    achieved: 2.0
-    outOf: 6
+  customSections:
+    - name: Note
+      content: 2.0
 
 - name: Abitur
   icon: fa-school
@@ -61,10 +56,9 @@ degrees:
     name: Gymnasium Pegnitz
     url: "https://www.gymnasium-pegnitz.de"
     logo: /images/education/science_college.png
-  grade:
-    scale: GPA
-    achieved: 2.3
-    outOf: 6
+  customSections:
+    - name: Note
+      content: 2.3
   extracurricularActivities: #(optional)
   - Voluntary social work in local Kindergarden
 
