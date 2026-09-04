@@ -12,14 +12,14 @@ designation: Research Software Engineer
 # your company information
 company:
   name: QBiC
-  url: "https://qbic.life"
+  url: "https://www.info.qbic.uni-tuebingen.de"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a research software engineer with x years of working experience. I built plugins for [Nextflow](https://nextflow.io/) using Groovy. I like to get into the gritty details of systems and squeezing the bugs out while easing the features in.'
+summary: 'I am a research software engineer with 2 years of working experience. I built plugins for [Nextflow](https://nextflow.io/) using Groovy. I like to get into the gritty details of systems and squeezing the bugs out while easing the features in.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -56,17 +56,17 @@ badges:
 #  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
 
 - type: soft-skill-indicator
-  name: Curiousity
-  percentage: 90
-  color: blue
+  name: Curiosity
+  percentage: 85
+  color: yellow
 
 - type: soft-skill-indicator
   name: Team Work
   percentage: 80
-  color: yellow
+  color: blue
 
 - type: soft-skill-indicator
-  name: Deep diving
-  percentage: 85
+  name: Bug hunting
+  percentage: 90
   color: orange
 
