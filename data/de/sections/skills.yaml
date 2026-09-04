@@ -11,61 +11,96 @@ section:
 
 # filter buttons
 buttons:
-- name: All
+- name: Alle
   filter: "all"
-- name: Basic
-  filter: "basic"
-- name: Language
+- name: Tools
+  filter: "tool"
+- name: Sprachen
   filter: "language"
-- name: Container
-  filter: "container"
-- name: Others
-  filter: "others"
+- name: Frameworks
+  filter: "framework"
+- name: Markup
+  filter: "markup"
+- name: OS
+  filter: "os"
 
-# Your Skills.
-# Give a summary of you each skill in the summary section.
+
+# Skills
 skills:
-- name: Kubernetes
-  logo: /images/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+- name: Git
+  logo: "/images/skills/git.svg"
+  summary: "Experienced with git-based development. Mostly  GitHub, some experience with Codeberg."
+  categories: ["tool"]
+  url: "https://git-scm.com"
 
-- name: Go Development
-  logo: /images/skills/go.png
+- name: Python
+  logo: /images/skills/python.svg
+  summary: "Dynamic scripting language that I use a lot in the academic context because of high maintainability of code."
+  categories: ["language"]
+  url: "https://python.org"
+  
+- name: Nextflow
+  logo: "/images/projects/nextflow.png"
+  summary: "Workflow scripting language, focused on high reproducibility. Written in Groovy."
+  categories: ["tool"]
+
+- name: Gradle
+  logo: "/images/skills/gradle.svg"
+  summary: "Building tool for Groovy, Java and Kotlin projects."
+  categories: ["tool"]
+
+- name: Java
+  logo: "/images/skills/java.svg"
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
+  categories: ["language"]
 
-- name: Cloud Computing
-  logo: /images/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+- name: Groovy
+  logo: "/images/skills/groovy.svg"
+  summary: "Java with syntactic sugar and dynamic typing. Cool one-liners, but a little bit more effort to keep type checks."
+  categories: ["language"]
+
+- name: R
+  logo: "/images/skills/r.svg"
+  summary: "Programming language with statistics background form close to mathematical expressions."
+  categories: ["language"]
+
+- name: Javascript / Typescript
+  logo: "/images/skills/javascript.svg"
+  summary: "Scripting language for the web. Utilized in website and report rendering."
+  categories: ["language"]
+
+- name: Markdown
+  logo: "/images/skills/markdown.svg"
+  summary: "Markup language for quick notes (also see Quarkdown for extra points)."
+  categories: ["markup"]
+
+- name: LaTex
+  logo: "/images/skills/latex.svg"
+  summary: "Markup language for complexly styled papers."
+  categories: ["markup"]
+
+- name: SLURM
+  logo: ""
+  summary: "Cluster computation scheduler with fairness by design."
+  categories: ["tool"]
+
+- name: scikit-learn
+  logo: "/images/skills/sk-learn.svg"
+  summary: "Machine-learning framework with a lot of range."
+  categories: ["tool"]
+
+- name: keras
+  logo: "/images/skills/keras.svg"
+  summary: "Deep learning frame work that interfaces with other frameworks (pytorch, tensorflow) with a bit more abstraction."
+  categories: ["tool"]
 
 - name: Docker
-  logo: /images/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  logo: "/images/skills/docker.svg"
+  summary: "Transport programs to other machines by mimicking a reproducible fixed environment. Proficient with multi-stage development."
   categories: ["container"]
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
-
 - name: Linux
-  logo: /images/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
-
-- name: Git
-  logo: /images/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
-  url: "https://git-scm.com/"
-
-- name: C++
-  logo: /images/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+  logo: "/images/skills/linux.svg"
+  summary: "Using as the main operating system. Tried several distros and configuration until I landed on CachyOS. Capable of writing bash/shell scripts and navigating complex setups."
+  categories: ["os"]
