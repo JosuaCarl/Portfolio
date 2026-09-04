@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Publications
+  name: Veröffentlichungen
   id: publications
   enable: true
   weight: 6
