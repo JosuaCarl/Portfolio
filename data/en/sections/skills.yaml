@@ -100,7 +100,7 @@ skills:
 
 - name: keras
   logo: "/images/skills/keras.svg"
-  summary: "Deep learning frame work that interfaces with other frameworks (pytorch, tensorflow) with a bit more abstraction."
+  summary: "Deep learning framework that interfaces with other frameworks (pytorch, tensorflow) with a bit more abstraction."
   categories: ["tool"]
   url: https://keras.io/
 

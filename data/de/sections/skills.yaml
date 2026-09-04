@@ -34,84 +34,84 @@ skills:
 
 - name: Python
   logo: "/images/skills/python.svg"
-  summary: "Dynamic scripting language that I use a lot in the academic context because of high maintainability of code."
+  summary: "Dynamische Skriptsprache, die von mir meist im akademischen Kontext bevorzugt wird, wegen hoher Wartbarkeit und Verständnis durch Forscher*innen."
   categories: ["language"]
   url: "https://python.org"
   
 - name: Nextflow
   logo: "/images/projects/nextflow.png"
-  summary: "Workflow scripting language, focused on high reproducibility. Written in Groovy."
+  summary: "Workflow Skriptsprache mit Fokus auf Reproduzierbarkeit. Geschrieben in Groovy."
   categories: ["tool"]
   url: https://www.nextflow.io/
 
 - name: Gradle
   logo: "/images/skills/gradle.svg"
-  summary: "Building tool for Groovy, Java and Kotlin projects."
+  summary: "Build Werkzeug für Java-basierte Projekte (inkl. Groovy, Kotlin)."
   categories: ["tool"]
   url: https://gradle.org/
 
 - name: Java
   logo: "/images/skills/java.svg"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "Vielleicht am weitesten verbreitet im Raum der praktischen objektorientierten Sprachen mit einer gewissen Abstraktion."
   categories: ["language"]
   url: https://java.com
 
 - name: Groovy
   logo: "/images/skills/groovy.svg"
-  summary: "Java with syntactic sugar and dynamic typing. Cool one-liners, but a little bit more effort to keep type checks."
+  summary: "Java mit syntaktischem Zucker und einem Hand das typing zu unterlassen."
   categories: ["language"]
   url: https://groovy-lang.org/
 
 - name: R
   logo: "/images/skills/r.svg"
-  summary: "Programming language with statistics background form close to mathematical expressions."
+  summary: "Mathematisch formulierte Programmiersprache für statistische Operationen."
   categories: ["language"]
   url: https://www.r-project.org/
 
 - name: "Javascript / Typescript"
   logo: "/images/skills/javascript.svg"
-  summary: "Scripting language for the web. Utilized in website and report rendering."
+  summary: "Skriptsprache für das Internet mit viel Doppeldeutigkeit aber ebenso viel Oneliner-Potential"
   categories: ["language"]
   url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 - name: Markdown
   logo: "/images/skills/markdown.svg"
-  summary: "Markup language for quick notes (also see Quarkdown for extra points)."
+  summary: "Markupsparache für schnelle Notizen (Quarkdown ist auch ein interessantes Projekt, dass die Grenzen zwischen Markdown und LaTex angeht)."
   categories: ["markup"]
   url: https://markdown.org/
 
 - name: LaTex
   logo: "/images/skills/latex.svg"
-  summary: "Typesetting language for complexly styled papers."
+  summary: "Typesettingsprache für komplex designte Dokumente."
   categories: ["markup"]
   url: https://www.latex-project.org/
 
 - name: SLURM
   logo: ""
-  summary: "Cluster computation scheduler with fairness by design."
+  summary: "Cluster scheduler mit Fairness Funktionen für gemeinschaftliche Ressourcennutzung."
   categories: ["tool"]
   url: https://slurm.schedmd.com/
 
 - name: scikit-learn
   logo: "/images/skills/sk-learn.svg"
-  summary: "Machine-learning framework with a lot of range."
+  summary: "Machine-learning framework mit großer Bandbreite."
   categories: ["tool"]
   url: https://scikit-learn.org
 
 - name: keras
   logo: "/images/skills/keras.svg"
-  summary: "Deep learning frame work that interfaces with other frameworks (pytorch, tensorflow) with a bit more abstraction."
+  summary: "Deep learning framework das eine höhere Abstraktion aufweist und auch Tensorflow / PyTorch zurückgreift."
   categories: ["tool"]
   url: https://keras.io/
 
 - name: Docker
   logo: "/images/skills/docker.svg"
-  summary: "Transport programs to other machines by mimicking a reproducible fixed environment. Proficient with multi-stage development."
+  summary: "Containersystem für Programme das Kompatibilitätsprobleme durch gleich bleibende Virtualisierungsumgebungen angeht."
   categories: ["container"]
   url: "https://www.docker.com/"
 
 - name: Linux
   logo: "/images/skills/linux.svg"
-  summary: "Using as the main operating system. Tried several distros and configuration until I landed on CachyOS. Capable of writing bash/shell scripts and navigating complex setups."
+  summary: "Mein Lieblings OS, dass ich privat verwende. User haben die volle Kontrolle. Ich bin auf CachyOS nach mehreren Versuchen hängen geblieben."
   categories: ["os"]
   url: https://en.wikipedia.org/wiki/Linux
