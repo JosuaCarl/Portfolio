@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Ich bin Forschungssoftware Ingenieur*in / Entwickler*in mit zwei Jahren Arbeitserfahrung. Bei meiner letzten Arbeit habe ich ein Plugin für [Nextflow](https://nextflow.io/) mit Groovy entwickelt. Ich mag es, in die kleinen Details von Systemen einzutauchen und dabei Bugs zu jagen und neue Funktionalitäten einzupflegen.'
+summary: 'Ich bin Forschungssoftware Ingenieur*in / Entwickler*in mit zwei Jahren Arbeitserfahrung. Bei meiner letzten Arbeit habe ich ein Plugin für [Nextflow](https://nextflow.io/) mit Groovy entwickelt. Ich mag es, in die kleinen Details von Systemen einzutauchen und dabei Bugs zu finden und neue Funktionalitäten einzupflegen.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
