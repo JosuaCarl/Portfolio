@@ -24,17 +24,16 @@ buttons:
 - name: OS
   filter: "os"
 
-
 # Skills
 skills:
 - name: Git
   logo: "/images/skills/git.svg"
-  summary: "Experienced with git-based development. Mostly  GitHub, some experience with Codeberg."
+  summary: "Erfahrung mit git-basierter Entwicklung. Größtenteils GitHub, ein bisschen Codeberg."
   categories: ["tool"]
   url: "https://git-scm.com"
 
 - name: Python
-  logo: /images/skills/python.svg
+  logo: "/images/skills/python.svg"
   summary: "Dynamic scripting language that I use a lot in the academic context because of high maintainability of code."
   categories: ["language"]
   url: "https://python.org"
@@ -43,56 +42,67 @@ skills:
   logo: "/images/projects/nextflow.png"
   summary: "Workflow scripting language, focused on high reproducibility. Written in Groovy."
   categories: ["tool"]
+  url: https://www.nextflow.io/
 
 - name: Gradle
   logo: "/images/skills/gradle.svg"
   summary: "Building tool for Groovy, Java and Kotlin projects."
   categories: ["tool"]
+  url: https://gradle.org/
 
 - name: Java
   logo: "/images/skills/java.svg"
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   categories: ["language"]
+  url: https://java.com
 
 - name: Groovy
   logo: "/images/skills/groovy.svg"
   summary: "Java with syntactic sugar and dynamic typing. Cool one-liners, but a little bit more effort to keep type checks."
   categories: ["language"]
+  url: https://groovy-lang.org/
 
 - name: R
   logo: "/images/skills/r.svg"
   summary: "Programming language with statistics background form close to mathematical expressions."
   categories: ["language"]
+  url: https://www.r-project.org/
 
-- name: Javascript / Typescript
+- name: "Javascript / Typescript"
   logo: "/images/skills/javascript.svg"
   summary: "Scripting language for the web. Utilized in website and report rendering."
   categories: ["language"]
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 - name: Markdown
   logo: "/images/skills/markdown.svg"
   summary: "Markup language for quick notes (also see Quarkdown for extra points)."
   categories: ["markup"]
+  url: https://markdown.org/
 
 - name: LaTex
   logo: "/images/skills/latex.svg"
-  summary: "Markup language for complexly styled papers."
+  summary: "Typesetting language for complexly styled papers."
   categories: ["markup"]
+  url: https://www.latex-project.org/
 
 - name: SLURM
   logo: ""
   summary: "Cluster computation scheduler with fairness by design."
   categories: ["tool"]
+  url: https://slurm.schedmd.com/
 
 - name: scikit-learn
   logo: "/images/skills/sk-learn.svg"
   summary: "Machine-learning framework with a lot of range."
   categories: ["tool"]
+  url: https://scikit-learn.org
 
 - name: keras
   logo: "/images/skills/keras.svg"
   summary: "Deep learning frame work that interfaces with other frameworks (pytorch, tensorflow) with a bit more abstraction."
   categories: ["tool"]
+  url: https://keras.io/
 
 - name: Docker
   logo: "/images/skills/docker.svg"
@@ -104,3 +114,4 @@ skills:
   logo: "/images/skills/linux.svg"
   summary: "Using as the main operating system. Tried several distros and configuration until I landed on CachyOS. Capable of writing bash/shell scripts and navigating complex setups."
   categories: ["os"]
+  url: https://en.wikipedia.org/wiki/Linux
