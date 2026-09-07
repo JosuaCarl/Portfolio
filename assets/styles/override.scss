@@ -1,0 +1,53 @@
+// Define background (blur)
+.home{
+  .background{
+    filter: blur(3px);
+  }
+}
+
+// Define picture covering text
+.navbar-brand,
+.nav-link,
+.nav-item,
+.greeting,
+.typed {
+    text-shadow:
+        1px 0 get-light-color('bg-primary'),
+        -1px 0 get-light-color('bg-primary'),
+        0 1px get-light-color('bg-primary'),
+        0 -1px get-light-color('bg-primary'),
+        1px 1px get-light-color('bg-primary'),
+        -1px -1px get-light-color('bg-primary'),
+        1px -1px get-light-color('bg-primary'),
+        -1px 1px get-light-color('bg-primary');
+    color: get-light-color('text-color') !important;
+}
+
+html[data-theme='dark'] {
+    .navbar-brand,
+    .nav-link,
+    .nav-item,
+    .greeting,
+    .typed {
+        text-shadow:
+            1px 0 get-dark-color('bg-primary'),
+            -1px 0 get-dark-color('bg-primary'),
+            0 1px get-dark-color('bg-primary'),
+            0 -1px get-dark-color('bg-primary'),
+            1px 1px get-dark-color('bg-primary'),
+            -1px -1px get-dark-color('bg-primary'),
+            1px -1px get-dark-color('bg-primary'),
+            -1px 1px get-dark-color('bg-primary');
+    color: get-dark-color('text-color') !important;
+    }
+}
+
+// Make footer lists horizontal
+#footer li {
+    display: inline;
+}
+#footer ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type:none;
+}

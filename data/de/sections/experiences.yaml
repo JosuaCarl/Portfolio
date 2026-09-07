@@ -17,7 +17,7 @@ experiences:
     logo: /images/experiences/qbic.png
     overview: Das Zentrum für quantitative Biologie (QBiC) entwickelt Programme und Workflows zur Analyse biologische Daten und stellt Auswertungen zur Verfügung.
   positions:
-  - designation: Ingeneur\*in für Forschungssoftware
+  - designation: Ingenieur\*in für Forschungssoftware
     start: Feb 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     responsibilities:
