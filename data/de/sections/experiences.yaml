@@ -15,53 +15,53 @@ experiences:
     url: "https://www.info.qbic.uni-tuebingen.de"
     location: Tübingen
     logo: /images/experiences/qbic.png
-    overview: The quantitative biology center (QBiC) develops and deploys approaches to analyze biological data.
+    overview: Das Zentrum für quantitative Biologie (QBiC) entwickelt Programme und Workflows zur Analyse biologische Daten und stellt Auswertungen zur Verfügung.
   positions:
-  - designation: Research Software Engineer
+  - designation: Ingeneur\*in für Forschungssoftware
     start: Feb 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     responsibilities:
-    - Design and develop plugin for Nextflow
-    - Research on CO2 footprint of cluster computing
-    - Experimental verification of power models
+    - Nextflow Plugins designen und entwickeln
+    - Forschung an dem CO2-Fußabdruck von Rechenclustern
+    - Experimentelle Verifikation von Energiemodellen
 
 
 - company:
-    name: CMFI
-    url: "https://www.cmfi.uni-tuebingen.de/"
+    name: Link Lab & CMFI 
+    url: "https://www.linkmetabolism.com"
     location: Tübingen
     logo: /images/experiences/cmfi.png
     # darkLogo: /images/experiences/company2.jpg
-    overview: The controlling microbes to fight infections (CMFI) cluster studies mechanisms to control microbes.
+    overview: Das "controlling microbes to fight infections" (CMFI) Exzellenzcluster forscht an Methoden zur Kontrolle von Mikroorganismen im menschlichen Körper.
   positions:
-  - designation: Research Assistant
+  - designation: Wissenschaftliche Hilfskraft
     start: Okt 2024
     end: Jan 2025
     responsibilities:
-    - Develop platform for metabolic analysis pipelines
-    - Develop and test machine learning approaches to species inference through metabolomes.
+    - Platform für die Analyse metabolomischer Massenspektrometriedaten entwickeln
+    - Inferenz von Spezies anhand metabolomischer Daten durch maschinelles Lernen testen und entwickeln
 
 - company:
-    name: Plant Ecology working group
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: '#'
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: AG Vegetationsökologie
+    url: "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/biology/institutes/evolution-and-ecology/eve-groups/plant-ecology"
+    location: Tübingen
+    logo: '/images/education/uni-tuebingen.png'
+    overview: Verwaltung von lokalen Rechnen und Cloud Systemen für die AG Vegetationsökologie, das SAGE Projekt und den botanischen Garten.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Systemadministrator*\in
+    start: Jan 2021
+    end: Mar 2024
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Locale Rechner verwalten in Zusammenarbeit mit dem IT Team der Universität
+    - Datenhosting auf selbstverwalteter cloud verwalten für ein multinationales Forschungsprojekt
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+- company:
+    name: Mehrere Jobs außerhalb der IT
+    url: ""
+    location: Süddeutschland
+    logo: ''
+    overview: Arbeit als Physiotherpeut\*in und weitere kleinere Arbeiten. Details finden sich in meinem Lebenslauf.
+  positions:
+  - designation: Verschiedenes
+    start: "2012"
+    end: "2021"

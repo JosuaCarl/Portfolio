@@ -27,8 +27,8 @@ experiences:
 
 
 - company:
-    name: CMFI
-    url: "https://www.cmfi.uni-tuebingen.de/"
+    name: Link Lab & CMFI 
+    url: "https://www.linkmetabolism.com"
     location: Tübingen
     logo: /images/experiences/cmfi.png
     # darkLogo: /images/experiences/company2.jpg
@@ -43,25 +43,25 @@ experiences:
 
 - company:
     name: Plant Ecology working group
-    url: "https://www.example.com"
-    location: Intern Land
+    url: "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/biology/institutes/evolution-and-ecology/eve-groups/plant-ecology"
+    location: Tübingen
     logo: '/images/education/uni-tuebingen.png'
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Administered local machines and cloud systems for the Plant Ecology working group, the SAGE Project, and the botanical garden.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Systems administrator
+    start: Jan 2021
+    end: Mar 2024
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Administer local machines in collaboration with the university's team.
+    - Administer a cloud solution for hosting data for shared research projects.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+- company:
+    name: Several jobs outside of IT
+    url: ""
+    location: Southern Germany
+    logo: ''
+    overview: Worked as a physical therapist and several smaller jobs. For details please refer to my CV.
+  positions:
+  - designation: Various
+    start: "2012"
+    end: "2021"

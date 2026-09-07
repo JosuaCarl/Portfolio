@@ -1,8 +1,8 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
 baseURL: https://josuacarl.github.io/Portfolio
 
-locale: de
-title: "Josua's portfolio"
+locale: de-de
+title: "Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -24,12 +24,10 @@ languages:
   en:
     locale: en
     label: English
-    title: "Portfolio"
     weight: 1
   de:
     locale: de
     label: Deutsch
-    title: "Portfolio"
     weight: 2
 
 # default language for the content
@@ -135,7 +133,7 @@ params:
 
     # Specify whether to show flag in the language selector. Default is true.
     flags:
-      enable: true
+      enable: false
       # # If you want to use different country flag for a language, specify them here.
       # flagOverwrites:
       #   - languageCode: en
